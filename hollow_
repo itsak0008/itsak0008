@@ -1,0 +1,11 @@
+#mutable - we can changed again
+list1 = [8,2.3,[-4,5],["apple","banana"]]
+print(list1)
+
+#immutable - we can't changed after we created
+tuple1 = (("parrot","spwarrow"),("lion","tiger"))
+print(tuple1)
+
+# A dictionary is an unordered collection of data containing a key:value pair
+dict1 = {"nmae":"sakshi","age":25,"canvote":True}
+print(dict1)
