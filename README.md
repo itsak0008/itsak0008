@@ -1,4 +1,4 @@
-## Hi there 👋
+## Have a look around!
 
 <!--
 **itsak0008/itsak0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
